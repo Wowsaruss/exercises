@@ -20,11 +20,7 @@ corepack yarn test
 ```
 
 ## Elixir
-To install dependancies, run the below command within your specific exercise directory 
-```
-corepack yarn install
-```
 To run your exercise tests, run the following command in your specific exercise directory 
 ```
-corepack yarn test
+mix test
 ```
